@@ -1,6 +1,6 @@
 # Setup
 title:        The Sun In A Sphere
-tagline:      Instruction for DIY Sphere of the Sun
+tagline:      An exhibit of our Sun in 360°
 baseurl:      ""
 paginate:     1
 
@@ -16,5 +16,7 @@ gems:
 #Others
 markdown: kramdown
 
-show_downloads: ["false"]
+
+
+# show_downloads: ["false"]
 
